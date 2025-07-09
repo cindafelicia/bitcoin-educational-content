@@ -10,9 +10,9 @@ objectives:
 
 # Sebuah perjalanan ke dalam ekonomi
 
-Selamat datang di kursus Théo Mogenet! Bersemangat tentang ekonomi, sejarah, sastra, ilmu politik, dan teknologi, ia telah memutuskan untuk berbagi pengetahuannya tentang ekonomi Austria dengan Anda. Cabang ini, yang kurang dikenal dalam ekonomi, didasarkan pada rasionalitas manusia dan perilaku aktor bebas. Kurang intensif dalam matematika, ini adalah pertanyaan logika dan studi sosial di atas segalanya.
+Selamat datang di kursus Théo Mogenet! Memiliki minat yang besar tentang ekonomi, sejarah, sastra, ilmu politik, dan teknologi, Mogenet memutuskan untuk membagikan pengetahuannya tentang ekonomi Austria kepada Anda. Pembahasan ini, yang masih kurang dikenal dalam dunia ekonomi, berlandaskan pada rasionalitas manusia dan perilaku bebas individu. Tidak terlalu berfokus pada matematika, pembahasan ini lebih mengedepankan logika dan studi sosial seebagai intinya.
 
-Sekolah pemikiran ini sudah memiliki beberapa abad di belakangnya dan memiliki panorama penulis, pemikiran, dan ekonom di belakangnya. Nama-nama besar dalam ekonomi seperti Hayek, Rothbard, Mises, Bastiat, atau Menger telah lama mempertahankan gerakan ini. Berbeda dengan Keynesianisme yang omnipresent di zaman kita, sekolah Austria menempatkan individu kembali di pusat persamaan dengan pendekatan yang lebih liberal, kapitalis, dan bahkan anarkis.
+Aliran pemikiran ini sudah berkembang selama beberapa abad dan dihiasi oleh berbagai pemikir, gagasan, serta ekonom di belakangnya. Nama-nama besar dalam ekonomi seperti Hayek, Rothbard, Mises, Bastiat, atau Menger telah lama mempertahankan gerakan ini. Berbeda dengan Keynesianisme yang omnipresent di zaman kita, sekolah Austria menempatkan individu kembali di pusat persamaan dengan pendekatan yang lebih liberal, kapitalis, dan bahkan anarkis.
 
 +++
 
